@@ -30,7 +30,7 @@ Al mismo tiempo, en el centro hay muchos otros lugares representativos de la ciu
 También la vida de Guadalajara en la noche es un momento más que respetado: la vida nocturna en la ciudad es envidiable, hay lugares para todos. Explore Tlaquepaque para disfrutar de esta encantadora ciudad a las afueras de Guadalajara es conocida por su hermosa arquitectura, artesanías tradicionales y deliciosa cocina. Pase una tarde navegando por las tiendas y galerías locales, probando el tequila y la cocina locales y disfrutando del ambiente vibrante.
 
 <center>
- <img src="/public/images/blog/Events_Tequila_Jalisco_Mexico.jpg" alt="imagen" style="max-width: 100%; height: auto;">
+ <img src="https://gdl-tours.netlify.app/images/blog/Events_Tequila_Jalisco_Mexico.jpg" alt="imagen" style="max-width: 100%; height: auto;">
 </center>
 
 --- 
@@ -42,7 +42,7 @@ El agave es una planta única. Lo que lo hace tan especial son los años que lle
 Una vez que llegan a la destilería, los pinos se cortan por la mitad antes de que los trabajadores los coloquen dentro de los hornos. Cada horno contiene hasta 22 toneladas de pinos y los cocina en un período de 12 a 14 horas. Luego, los pinos después de haber sido cocinados se someten al proceso de compresión. Aquí en este proceso es donde la máquina exprime todos los productos del pino. Los productos se llevan a un recipiente de acero para manchas. Cada contenedor es capaz de contener hasta 30.000 litros. Cuando el líquido está dentro de los contenedores ahora tenemos que esperar 36 horas para poder avanzar en el siguiente paso. El siguiente paso es la destilación. En la destilación se obtiene el alcohol y el agua se separa. El líquido se coloca en las alambiques a una temperatura de 90 a 110. Pasamos por el proceso de destilación dos veces. Entre la razón por la que lo hacemos dos veces es porque en la primera vez solo obtenemos del 20 al 25% de alcohol, y en la segunda destilación obtenemos del 50 al 55% de alcohol. Se necesita mucho tiempo para producir tequila y es por eso que creo que deberíamos aprender a apreciar el valor del tequila. Necesitamos conocer la forma correcta de beberlo y los diferentes tipos de tequilas. Si usted está interesado en aprender más acerca de este tema fascitante y mirando en los secretos de cómo se obtienen los sabores, Estoy más que feliz de preparar una visita especial a una de las 120 destilerías de tequila en esta área.
 
 <center>
- <img src="/public/images/blog/Agave.jpg" alt="imagen" style="max-width: 100%; height: auto;">
+ <img src="https://gdl-tours.netlify.app/images/blog/Agave.jpg" alt="imagen" style="max-width: 100%; height: auto;">
 </center>
 
 ---
@@ -57,7 +57,7 @@ El campesino de la imagen nos da manzanas con ternura y simpatía, mientras que 
 Su esfuerzo será apreciado por los transeúntes de Tlaquepaque, al menos uno de ellos estará fuera de la oficina de GDL Tours, Independencia 329, por lo que se necesitan consejos y su cooperación para estos artistas, se necesitan mimarlos para que continúen transmitiendo este arte contemporáneo.
 
 <center>
- <img src="/public/images/blog/Estatuas.jpg" alt="imagen" style="max-width: 100%; height: auto;">
+ <img src="https://gdl-tours.netlify.app/images/blog/Estatuas.jpg" alt="imagen" style="max-width: 100%; height: auto;">
 </center>
 
 ### Identidad de Tlaquepaque
@@ -70,7 +70,7 @@ Tlaquepaque es el centro de artesanía más importante de México. La mayoría d
 Es absolutamente necesario ver a estos talentosos artesanos en el trabajo, esta visita guiada está diseñada para su disfrute durante 5 horas, visite a los artesanos que trabajan donde los visitantes pueden comprar directamente de sus recuerdos y obras de arte.
 
 <center>
- <img src="/public/images/blog/Puente.jpg" alt="imagen" style="max-width: 100%; height: auto;">
+ <img src="https://gdl-tours.netlify.app/images/blog/Puente.jpg" alt="imagen" style="max-width: 100%; height: auto;">
 </center>
 
 ---
