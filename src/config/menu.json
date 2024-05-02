@@ -1,0 +1,43 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Sobre nosotros",
+      "url": "/about"
+    },
+    {
+      "name": "Pages",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Contacto",
+          "url": "/contact"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
+        {
+          "name": "Autores",
+          "url": "/authors"
+        },
+
+        {
+          "name": "Pagina 404",
+          "url": "/404"
+        }
+      ]
+    }
+  ],
+  "footer": [
+
+    {
+      "name": "Política de privacidad",
+      "url": "/privacy-policy"
+    }
+  ]
+}
