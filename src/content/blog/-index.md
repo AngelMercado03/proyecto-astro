@@ -21,7 +21,7 @@ En resumen, Guadalajara ofrece una mezcla única de historia, cultura, gastronom
 ---
 
 <center>
-    <img src="/public/images/blog/Gdl.jpg" alt="imagen" style="max-width: 100%; height: auto;">
+    <img src="../../../public/images/blog/Gdl.jpg" alt="imagen" style="max-width: 100%; height: auto;">
 </center>
 
 Conocer nuestra ciudad es una experiencia maravillosa, llena de sorpresas e inesperadas porque al dar la vuelta en algún rincón encontrarás algo sorprendente. Guadalajara y sus ciudades circundantes ofrecen una gran cantidad de sitios culturales e históricos para explorar. Tlaquepaque es una encantadora ciudad colonial a pocos kilómetros de Guadalajara que es famosa por su hermosa arquitectura, galerías de arte y artesanías. Estos son algunos de los mejores lugares para ver en Tlaquepaque
